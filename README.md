@@ -8,7 +8,7 @@ This repo contains a wrapper script to be used with [MultiMC](https://multimc.or
 
 ### Pre-requisites
 
-First, install the [Zulu Java 11 JDK for macOS ARM64](https://cdn.azul.com/zulu/bin/zulu11.43.1015-ca-jdk11.0.9.1-macos_aarch64.dmg).
+First, install the [Adoptium Java 17 JDK for macOS ARM64](https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.1%2B12/OpenJDK17U-jdk_aarch64_mac_hotspot_17.0.1_12.pkg).
 
 You'll also need a standard install of MultiMC.
 
